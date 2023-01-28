@@ -1,0 +1,16 @@
+2022-11-14 23:26:26,556, INFO, Taking all pdfs from the directory
+2022-11-14 23:26:26,556, INFO, This is the start of PDF merging, it is taking input ['AM-5-Mar-2022.pdf', 'Anandamela 5 April 2021.pdf', 'Anandamela 5 June 2017.pdf']
+2022-11-14 23:26:26,650, ERROR, Error occurred
+2022-11-14 23:26:26,657, INFO, Taking of pdfs is successful
+2022-11-14 23:30:21,508, INFO, Taking all pdfs from the directory
+2022-11-14 23:30:21,508, INFO, This is the start of PDF merging, it is taking input ['AM-5-Mar-2022.pdf', 'Anandamela 5 April 2021.pdf', 'Anandamela 5 June 2017.pdf']
+2022-11-14 23:30:21,594, ERROR, Error occurred
+2022-11-14 23:30:21,598, INFO, Taking of pdfs is successful
+2022-11-15 12:00:51,988, INFO, Taking all pdfs from the directory
+2022-11-15 12:00:51,997, INFO, This is the start of PDF merging, it is taking input ['free.pdf', 'sample.pdf']
+2022-11-15 12:00:52,105, INFO, Execution successful
+2022-11-15 12:00:52,105, INFO, Taking of pdfs is successful
+2022-11-15 12:04:10,758, INFO, Taking all pdfs from the directory
+2022-11-15 12:04:10,758, INFO, This is the start of PDF merging, it is taking input ['free.pdf', 'sample.pdf']
+2022-11-15 12:04:10,845, INFO, Execution successful
+2022-11-15 12:04:10,846, INFO, Taking of pdfs is successful
